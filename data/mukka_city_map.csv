@@ -1,0 +1,13 @@
+Source,Destination,Distance
+Mukka,Surathkal,5
+Mukka,Kulai,7
+Mukka,NITK,8
+Surathkal,Kulai,4
+Surathkal,NITK,3
+Kulai,Panambur,6
+NITK,Panambur,10
+Panambur,Baikampady,3
+Baikampady,NewMangalorePort,2
+Surathkal,Bajpe,15
+Bajpe,Kateel,8
+Kateel,Mukka,18
